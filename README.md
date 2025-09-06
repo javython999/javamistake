@@ -46,3 +46,4 @@
 
 # 05. 일반적인 예외
 ## [041. NullPointerException](docs/041.md)
+## [042. IndexOutOfBoundsException](docs/042.md)
