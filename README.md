@@ -49,3 +49,6 @@
 ## [042. IndexOutOfBoundsException](docs/04/042.md)
 ## [043. ClassCastException](docs/04/043.md)
 ## [044. StackOverflowError](docs/04/044.md)
+
+# 06 문자열
+## [045. char 값을 문자로 간주](doc/05/045.md)
