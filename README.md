@@ -50,7 +50,7 @@
 ### [043. ClassCastException](docs/04/043.md)
 ### [044. StackOverflowError](docs/04/044.md)
 
-# 06 문자열
+# 06. 문자열
 ### [045. char 값을 문자로 간주](docs/05/045.md)
 ### [046. 대소문자 변환](docs/05/046.md)
 ### [047. 기본 로케일에서 String.format 사용](docs/05/047.md)
@@ -60,4 +60,7 @@
 ### [051. 이스케이프 시퀀스 오용](docs/05/051.md)
 ### [052. 문자열의 대소문자 비교](docs/05/052.md)
 ### [053. indexOf 메서드 결과 미확인](docs/05/053.md)
-### [053. # indexOf 인수 오용](docs/05/054.md)
+### [054. indexOf 인수 오용](docs/05/054.md)
+
+# 07. 객체 비교
+### [055. equals 메서드 대신 참조 동등성 비교](docs/06/055.md)
