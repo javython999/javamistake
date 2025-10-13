@@ -70,3 +70,4 @@
 ### [059. 관련 없는 타입에 equals() 사용](docs/06/059.md)
 ### [060. 잘못된 equals() 구현](docs/06/060.md)
 ### [061. 배열 필드 hashCode()](docs/06/061.md)
+### [062. equals()와 hashCode() 불일치](docs/06/062.md)
