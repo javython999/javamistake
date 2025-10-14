@@ -71,3 +71,4 @@
 ### [060. 잘못된 equals() 구현](docs/06/060.md)
 ### [061. 배열 필드 hashCode()](docs/06/061.md)
 ### [062. equals()와 hashCode() 불일치](docs/06/062.md)
+### [063. 특정 반환값에 의존하는 compare()](docs/06/063.md)
