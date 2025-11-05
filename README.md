@@ -88,3 +88,4 @@
 ### [075. HashMap 및 HashSet의 등장 순서 의존](docs/07/075.md)
 ### [076. 순회 도중 수정하기](docs/07/076.md)
 ### [077. List.remove() 오버로드 오용](docs/07/077.md)
+### [078. List.remove() 직후 원소 생략](docs/07/078.md)
