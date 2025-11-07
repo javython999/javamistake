@@ -90,3 +90,4 @@
 ### [077. List.remove() 오버로드 오용](docs/07/077.md)
 ### [078. List.remove() 직후 원소 생략](docs/07/078.md)
 ### [079. Collection.removeIf() 내부의 컬렉션 조회](docs/07/079.md)
+### [080. Map.computeIfAbsent()의 동시 수정](docs/07/080.md)
