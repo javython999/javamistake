@@ -92,3 +92,6 @@
 ### [079. Collection.removeIf() 내부의 컬렉션 조회](docs/07/079.md)
 ### [080. Map.computeIfAbsent()의 동시 수정](docs/07/080.md)
 ### [081. 이터레이터 계약 위반](docs/07/081.md)
+
+# 09. 라이브러리 메서드
+### [082. StringBuilder 생성자에 char 전달](docs/08/082.md)
