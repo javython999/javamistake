@@ -99,4 +99,5 @@
 ### [084. 스트림을 두 번 소비](docs/08/084.md)
 ### [085. null 사용 불가 스트림에서 null 값 사용](docs/08/085.md)
 ### [086. 스트림 API 연산 계약 위반](docs/08/086.md)
-### [086. instanceof 대신 getClass()를 사용](docs/08/087.md)
+### [087. instanceof 대신 getClass()를 사용](docs/08/087.md)
+### [088. 열거형, 어노테이션, 클래스에서 getClass()를 사용](docs/08/088.md)
